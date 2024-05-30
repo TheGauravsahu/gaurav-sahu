@@ -15,7 +15,7 @@ const About = () => {
         />
       </h1>
 
-      <div className="flex flex-col lg:flex-row h-full items-center justify-center">
+      <div className="flex flex-col lg:flex-row h-full items-center">
         <div className="lg:h-screen  lg:pt-16">
           <h2 className="text-6xl font-semibold">
             <i>hey there I&apos;m</i>
